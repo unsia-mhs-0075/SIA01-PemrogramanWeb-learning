@@ -37,4 +37,10 @@ tertentu untuk implementasi berikut dokumentasiannya.
 8. Manipulasi tabel: Perintah SQL serta Klausa Where, Operator Logic menghapus, menambah & mengupdate Record
 9. MembuatWebDinamis: dgn CSS, disain web Page dinamis melalui tools form, page login & Administrator.
 
+## Video Referensi
+
+- [Pengantar Pemrograman Web | #1 Pengenalan Dasar Web](https://www.youtube.com/watch?v=73mgBv14zgU) dari
+  [@nahlcode](https://www.youtube.com/@nahlcode)
+  
 ## Apa itu HTML
+
